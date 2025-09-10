@@ -1,9 +1,5 @@
 # I'm Aayush 
 ![Aayush jpg](https://github.com/user-attachments/assets/aa9809da-7d99-4cc0-a36b-9c136a3a19df)
-
-
-
-
 ---
 
 ## About Me ❤
