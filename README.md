@@ -1,21 +1,56 @@
-I'm Aayush
-About Me ❤
-🧑🏻‍💻 Name	Aayush
-🌍 Location	Sohna
-🎯 Interests	Web Dev, Gaming
-🛠️ Tech Stack	React, TailwindCSS, Node.js, Python, C++, Git
-🚀 Projects	Portfolio
-📫 Contact	Email: 77aayushkumar@gmail.com
-🧠 Currently Learning	DSA, TypeScript
-🎓 I'm currently pursuing B.Tech in Computer Science
+# I'm Aayush
 
-👨‍💻 I love building creative, user-friendly web projects
+---
 
-🌱 Currently learning React.js and diving deeper into DSA
+## About Me ❤
 
-📚 I enjoy working on open source and personal side projects
+| **🧑🏻‍💻 Name**            | Aayush                           |
+|---------------------------|----------------------------------|
+| **🌍 Location**           | Sohna                            |
+| **🎯 Interests**          | Web Dev, Gaming                  |
+| **🛠️ Tech Stack**        | React, TailwindCSS, Node.js, Python, C++, Git |
+| **🚀 Projects**           | [Portfolio](https://aayushporfolioo.netlify.app) |
+| **📫 Contact**            | Email: [77aayushkumar@gmail.com](mailto:77aayushkumar@gmail.com) |
+| **🧠 Currently Learning** | DSA, TypeScript                  |
 
-💻 Tech Stack
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&styleo=javascript&logoColor=black should be updated -->
+---
 
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayush-github&show_icons=true&theme=radical Portfolio
+**🎓 I'm currently pursuing B.Tech in Computer Science**
+
+**👨‍💻 I love building creative, user-friendly web projects**
+
+**🌱 Currently learning React.js and diving deeper into DSA**
+
+**📚 I enjoy working on open source and personal side projects**
+
+---
+
+## 💻 Tech Stack
+
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 🌟 GitHub Stats
+
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayush-github&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect!
+
+- [Email](mailto:77aayushkumar@gmail.com)
+- [Instagram](https://instagram.com/aa.yush_777)
+- [Portfolio](https://aayushporfolioo.netlify.app)
+
+---
+
+✨✨ Thanks for visiting my profile! ✨✨
