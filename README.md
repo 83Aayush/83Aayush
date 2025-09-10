@@ -1,4 +1,7 @@
-# I'm Aayush
+# I'm Aayush 
+![Aayush jpg](https://github.com/user-attachments/assets/aa9809da-7d99-4cc0-a36b-9c136a3a19df)
+
+
 
 ---
 
@@ -8,7 +11,7 @@
 |---------------------------|----------------------------------|
 | **🌍 Location**           | Sohna                            |
 | **🎯 Interests**          | Web Dev, Gaming                  |
-| **🛠️ Tech Stack**        | React, TailwindCSS, Node.js, Python, C++, Git |
+| **🛠️ Tech Stack**         | Python ,Node.js,C++, Git |
 | **🚀 Projects**           | [Portfolio](https://aayushporfolioo.netlify.app) |
 | **📫 Contact**            | Email: [77aayushkumar@gmail.com](mailto:77aayushkumar@gmail.com) |
 | **🧠 Currently Learning** | DSA, TypeScript                  |
@@ -21,13 +24,11 @@
 
 **🌱 Currently learning React.js and diving deeper into DSA**
 
-**📚 I enjoy working on open source and personal side projects**
 
 ---
 
 ## 💻 Tech Stack
 
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,4 +54,4 @@
 
 ---
 
-✨✨ Thanks for visiting my profile! ✨✨
+  ✨✨ Thanks for visiting my profile! ✨✨
