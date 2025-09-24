@@ -1,4 +1,7 @@
   # I'm Aayush
+<h1 align="center">
+  <marquee>Aayush</marquee>
+</h1>
 
   ---
 
